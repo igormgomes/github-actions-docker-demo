@@ -1,4 +1,4 @@
-FROM openjdk:15
+FROM amazoncorretto:15
 
 ENV PORT 8080
 
