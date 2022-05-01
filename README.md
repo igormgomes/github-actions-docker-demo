@@ -1,6 +1,6 @@
 # Github docker demo
 
-The exemple project for push image to docker registry using Github actions.
+The example project for push image to docker registry using Github actions.
 
 ## Useful commands
 
